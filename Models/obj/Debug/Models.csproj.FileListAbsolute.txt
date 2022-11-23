@@ -1,0 +1,6 @@
+D:\Documentos\PracticasSabri\CursoC#Nivel2\Catalogo-IntegradorCurso\Models\bin\Debug\Models.dll
+D:\Documentos\PracticasSabri\CursoC#Nivel2\Catalogo-IntegradorCurso\Models\bin\Debug\Models.pdb
+D:\Documentos\PracticasSabri\CursoC#Nivel2\Catalogo-IntegradorCurso\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\Documentos\PracticasSabri\CursoC#Nivel2\Catalogo-IntegradorCurso\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Documentos\PracticasSabri\CursoC#Nivel2\Catalogo-IntegradorCurso\Models\obj\Debug\Models.dll
+D:\Documentos\PracticasSabri\CursoC#Nivel2\Catalogo-IntegradorCurso\Models\obj\Debug\Models.pdb

@@ -1,0 +1,9 @@
+D:\Documentos\PracticasSabri\CursoC#Nivel2\Catalogo-IntegradorCurso\Negocio-DB\bin\Debug\Negocio-DB.dll
+D:\Documentos\PracticasSabri\CursoC#Nivel2\Catalogo-IntegradorCurso\Negocio-DB\bin\Debug\Negocio-DB.pdb
+D:\Documentos\PracticasSabri\CursoC#Nivel2\Catalogo-IntegradorCurso\Negocio-DB\bin\Debug\Models.dll
+D:\Documentos\PracticasSabri\CursoC#Nivel2\Catalogo-IntegradorCurso\Negocio-DB\bin\Debug\Models.pdb
+D:\Documentos\PracticasSabri\CursoC#Nivel2\Catalogo-IntegradorCurso\Negocio-DB\obj\Debug\Negocio-DB.csproj.AssemblyReference.cache
+D:\Documentos\PracticasSabri\CursoC#Nivel2\Catalogo-IntegradorCurso\Negocio-DB\obj\Debug\Negocio-DB.csproj.CoreCompileInputs.cache
+D:\Documentos\PracticasSabri\CursoC#Nivel2\Catalogo-IntegradorCurso\Negocio-DB\obj\Debug\Negocio-DB.csproj.CopyComplete
+D:\Documentos\PracticasSabri\CursoC#Nivel2\Catalogo-IntegradorCurso\Negocio-DB\obj\Debug\Negocio-DB.dll
+D:\Documentos\PracticasSabri\CursoC#Nivel2\Catalogo-IntegradorCurso\Negocio-DB\obj\Debug\Negocio-DB.pdb
